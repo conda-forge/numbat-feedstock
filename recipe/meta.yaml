@@ -1,4 +1,4 @@
-{% set version = "1.16.0" %}
+{% set version = "1.17.0" %}
 
 package:
   name: numbat
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/sharkdp/numbat/archive/v{{ version }}.tar.gz
-  sha256: 33f3744a31f62f7ebd985c6b3ec3c6a6d6f897527e8db5bc2de48dd299a63cdd
+  sha256: ea690466f12684e2a10c771ac6e707ba0a080eff9ecbf506ef57b76f3cb589a0
 
 build:
   number: 0
